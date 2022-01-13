@@ -2,8 +2,8 @@
 
 void	init_struct(t_stack *stack)
 {
-	stack->min_int = 0;
 	stack->max_int = 0;
+	stack->min_int = 0;
 }
 
 int	main()
